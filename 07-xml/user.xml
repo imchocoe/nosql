@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <user>
-  <username>admin user!</username>
-  <email>invalid-email-address</email>
-  <age>15</age>
+  <username>adminuser1</username>
+  <email>iau1@company.com</email>
+  <age>21</age>
   <roles>
     <role>admin</role>
+    <role>user</role>
+    <role>all</role>
   </roles>
 </user>
