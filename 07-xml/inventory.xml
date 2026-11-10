@@ -1,0 +1,38 @@
+<inventory>
+    <storeName>My Store</storeName>
+    <product>
+        <name>Widget A</name>
+        <id>1</id>
+        <price>9.99</price>
+        <tags>
+            <tag>gadget</tag>
+            <tag>electronics</tag>
+        </tags>
+        <manufacturer>Acme Corp
+            <specs>
+                <weight>1.2</weight>
+                <dimensions>10x5x3</dimensions>
+            </specs>
+        </manufacturer>
+        <isActive> true </isActive>
+        <lastUpdated>2026-11-10T14:30:00</lastUpdated>
+    </product>
+    <product>
+        <name>Widget B</name>
+        <id>2</id>
+        <price>14.99</price>
+        <tags>
+            <tag>gadget</tag>
+            <tag>electronics</tag>
+        </tags>
+
+        <manufacturer>Zeta Corp
+            <specs>
+                <weight>1.5</weight>
+                <dimensions>12x6x4</dimensions>
+            </specs>
+        </manufacturer>
+        <isActive>false </isActive>
+        <lastUpdated>2026-11-10T14:30:00</lastUpdated>
+    </product>
+</inventory>
