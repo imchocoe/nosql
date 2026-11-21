@@ -1,0 +1,37 @@
+{
+    "storeName" : "NAME",
+    "isActive":true,
+    "lastUpdated" : "2026-11-21T17:11:00Z",
+    "products":[{
+        "id":1,
+        "name": "name1",
+        "price": 450.50,
+        "tags" :[ "tech","sale"],
+        "specs": {
+            "manufacturer":"isni",
+            "warranty" :21
+        }
+    },
+    {
+        "id":1,
+        "name": "name1",
+        "price": 450.50,
+        "tags" :[ "tech","sale"],
+        "specs": {
+            "manufacturer":"isni",
+            "warranty" :21
+        }
+    },
+    {
+        "id":1,
+        "name": "name1",
+        "price": 450.50,
+        "tags" :[ "tech","sale"],
+        "specs": {
+            "manufacturer":"isni",
+            "warranty" :21
+        }
+    }
+    ]
+
+}
